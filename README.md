@@ -1,7 +1,10 @@
 # Inventory Manager (PHP + MySQL)
 
 A compact CRUD app for managing stock: add, edit, delete, search, paginate and export items to CSV.
-
+## Screenshots
+![Inventory list](screenshots/inventory-list.png)
+![Add item form](screenshots/add-item-form.png)
+![Edit item form](screenshots/edit-item-form.png)
 ## Features
 - Full create / read / update / delete with server-side validation
 - Search across name, SKU and category, with pagination
